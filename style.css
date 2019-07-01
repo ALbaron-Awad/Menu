@@ -1,0 +1,318 @@
+body{
+	font-size : 14px ; 
+	margin: 0 ;
+	padding :0; 
+	background-color: #808080;
+	text-decoration : none ;
+}
+  .logo {
+	display : no-repeat;
+	text-indent : -999999px ;
+	background : url('./img/menu.png');
+	width : 200px ;
+	height : 150px;
+}
+* {box-sizing: border-box;}
+
+
+.container{
+	width :80%;
+	margin:auto  ;
+overflow: hidden ;}
+
+header nav ul li a {
+	
+	color : #2EABFF;
+}
+header nav ul li  {
+	
+	color : #2EABFF;
+}
+  ul{
+	 
+	 margin: 0 ;
+	padding :0;
+	 
+	 
+ }
+header{
+	background : #333435 ;
+color : #ffffff;
+	padding-top : 10px ;
+	min-height : 100px ; 
+	border-bottom : #E05B1C 2px solid ;
+}
+
+
+header a {
+	color : #ffffff;
+	text-decoration : none ;
+	text-transform : uppercase ; 
+	font-size : 16px ;
+}
+
+  header li {
+	  float : left ; 
+	  display : inline ; 
+	  padding : 0 20px 0 20px ; 
+	  
+  }
+  header #logo{
+	  float : left ;
+	  
+	  
+  }
+  header #logo h1{
+	  margin :0 ;
+	  
+  }
+  
+  header nav {
+	  
+	  float : right ;
+	 margin-top : 85px ;
+  }
+
+ section center div {
+	 display : table ; 
+	 
+ }
+ main section center  h2 {
+	
+	 text-decoration : auto ; 
+}
+  section center h3{
+	color : #333435;
+min-height : 15px ; 
+  }
+   section center ul  a  {
+	   text-decoration : none ; 
+	     position : relative ; 
+		 	text-transform : uppercase ; 
+	font-size : 16px ;
+	color : #0B5B9E;
+	  display: inline-block;
+	min-height : 35px ; 
+	
+   }
+  section center ul  div a  {
+	   text-decoration : none ; 
+	     position : relative ; 
+		 	text-transform : uppercase ; 
+	font-size : 16px ;
+	color : #0B5B9E;
+	  display: inline-block;
+	min-height : 35px ; 
+	
+   }
+   section center fieldset a {
+	   
+	 	   text-decoration : none ; 
+	     position : relative ; 
+		   	border : solid 2px #fff ; 
+			border-redius : 30xp ;
+			padding : 5px 20px ; 
+	   font-weight : 30 ; 
+font-size : 15px; 
+text-align : center;
+cursor : pointer ;			
+   }
+
+  section center fieldset table {
+  display: table;
+ 
+ 
+ 
+  border-color: gray;
+  font-size : 15px; 
+text-align : center;
+cursor : pointer ;	
+}
+section center  div h1  a {
+	
+	      color : #B6E2F9 ;
+	 	   text-decoration : none ; 
+	     position : relative ; 
+		   	border : solid 1px #E05B1C ; 
+			border-redius : 30xp ;
+			padding : 5px 20px ; 
+		font-weight : 30 ; 
+			font-size : 15px; 
+		text-align : center;
+		cursor : pointer ;
+}
+.center {
+  display: block;
+  margin-left: 20px;
+  margin-right: 30px;
+  width: 40%;
+ 
+
+  height: 300%;
+}
+
+textarea {
+  resize: none;
+}
+    section center  form input {
+		
+			min-height : 20px ; 
+	 position : relative ;
+border: 1px solid #E05B1C;
+  border-radius: 4px;	 
+	}
+	
+section center div  a {
+color : #B6E2F9 ; 
+		border : solid 1px #E05B1C ; 
+	   text-decoration : none ;
+}
+section center div ul  a {
+color : #B6E2F9 ; 
+		border : solid 2px #10449A; 
+	   text-decoration : none ;
+}
+section center  a {
+color : #B6E2F9 ; 
+		border : solid 1px #E05B1C ; 
+	   text-decoration : none ;
+}
+  footer{
+	  position : absolute ; 
+	  bottom : 0 ;
+	  width : 100% ; 
+	  height : 60px ; 
+	   background-color : #333435 ;
+	    overflow : hidden ; 
+	
+  }
+   table , tr, th , td  {
+fonr_color : #2EABFF ;
+
+ 
+		
+   }  
+
+  footer ul {
+	 
+width : fit-content ; 
+
+	  padding-left : 20 px ;
+  }
+	
+	footer ul a {
+		  color : #2EABFF ;
+		display : block ;
+		 text-decoration : none ;
+	}
+	.sm{
+ bottom : 0 ;
+		float : right ; 
+	width : 40px :
+
+	
+		
+	}
+	
+	.sm img {
+
+		float : right ;
+		width : 5% ; 
+		margin-bottom : 20px ; 
+		
+	}
+	
+	.submitt{
+		
+		padding : 16px 18px ;
+		margin: 26px 0 ;
+		border : none ;
+		cursor : pointer ;
+		  text-decoration : none ;
+		opacity : 0.9 ; 
+		color : #2EABFF ; 
+		  background-color: #333435;
+	}
+	section center h2 {
+		 padding : 16px 18px ;
+		margin: 26px 0 ;
+		border : none ;
+		
+		  text-decoration : none ;
+		opacity : 0.9 ; 
+	 color : #7FCFF9 ; 
+		
+		
+		
+	}
+	section center fieldset p {
+		color : #B6E2F9 ; 
+	}
+.w3-row-padding {
+	 display: inline ;
+	
+}
+	.dropbtn {
+  background-color: #333435;
+  color: #2EABFF;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.city_list {
+  position: relative;
+  display: inline-block;
+  
+}
+section center div {
+	
+	display : block ; 
+}
+.city_list-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.city_list-content a {
+color: #2EABFF;
+ 
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+
+section center marquee {
+	color : #333435 ; 
+	font-size: 18px;
+}
+.city_list-content a:hover {background-color: #ddd;}
+
+.city_list:hover .city_list-content {display: block;}
+
+.city_list:hover .dropbtn {background-color: #333435;}
+	
+	
+	
+	
+	
+	
+		.test{
+			color : #31A6FF;
+			font-weight : 50 ; 
+font-size : 30px; 
+text-align : center;
+cursor : pointer ;			
+			border : solid 2px #fff ; 
+			border-redius : 30xp ;
+			padding : 10px 80px ; 
+		}
+
+
+	
