@@ -6,12 +6,12 @@ I have to **explain something first** :
 *there is a scenario for this project ,this scenario will give you the wanted output 
 if you need the scenario please contact my *.
 
-###Project goals :
+## Project goals :
 
 1)-let the people select the  meals before going to the restaurant . 
 2)-time saving .
 
-###this project is in Arabic.
+## this project is in Arabic.
 
 ----------------------------------------------------------------------
 مشروع منيو
