@@ -8,8 +8,8 @@ if you need the scenario please contact my *.
 
 ## Project goals :
 
-1)-let the people select the  meals before going to the restaurant . 
-2)-time saving .
+1)-let the people select the  meals before going to the restaurant .
+    2)-time saving .
 
 ## this project is in Arabic.
 
