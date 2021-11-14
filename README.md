@@ -36,4 +36,4 @@ if you need the scenario please contact my *.
 **هذا المشروع مبني على سيناريو محدد للحصول عليه يرجى التواصل معي 
 لن يعمل الموقع مالم تحصل على سيناريو**
 
-<<albroon2012@gmail.com>>
+
